@@ -1,6 +1,6 @@
 const Customer = require('../../models/customers');
 const Order = require('../../models/orders');
-const Cart = require('../../models/Cart');
+const Cart = require('../../models/cart');
 const Guns = require('../../models/guns');
 const Rifles = require('../../models/rifles');
 const OrderContent = require('../../models/ordercontents');
