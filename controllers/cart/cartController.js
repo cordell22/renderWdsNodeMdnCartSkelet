@@ -1,4 +1,4 @@
-const Cart = require('../../models/Cart'); // Import your Cart model here
+const Cart = require('../../models/cart'); // Import your Cart model here
 const Guns = require('../../models/guns'); // Import your Cart model here
 const Rifles = require('../../models/rifles'); // Import your Cart model here
 
